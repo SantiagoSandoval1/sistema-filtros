@@ -1,0 +1,1 @@
+export type Category = 'Electrónica' | 'Libros' | 'Ropa' | 'Hogar';
